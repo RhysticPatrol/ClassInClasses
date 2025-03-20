@@ -2,7 +2,6 @@
 #define FLOAT_H
 
 #include <iostream>
-#include <limits>
 
 
 class FloatArray {
