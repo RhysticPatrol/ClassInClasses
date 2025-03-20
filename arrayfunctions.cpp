@@ -1,6 +1,5 @@
 #include "float.h"
 #include <iostream>
-#include <limits>
 using namespace std;
 
 FloatArray::FloatArray(int size) {
